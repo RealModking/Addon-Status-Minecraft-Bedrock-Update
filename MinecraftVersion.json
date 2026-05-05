@@ -1,1 +1,27 @@
+{
+  "minecraft_bedrock_versions": [
+    { "version": "1.20.0", "status": "stable" },
+    { "version": "1.20.10", "status": "stable" },
+    { "version": "1.20.20", "status": "stable" },
+    { "version": "1.20.30", "status": "stable" },
+    { "version": "1.20.40", "status": "stable" },
+    { "version": "1.20.50", "status": "stable" },
+    { "version": "1.20.60", "status": "stable" },
+    { "version": "1.20.70", "status": "stable" },
+    { "version": "1.20.80", "status": "stable" },
 
+    { "version": "1.21.0", "status": "stable" },
+    { "version": "1.21.10", "status": "stable" },
+    { "version": "1.21.20", "status": "stable" },
+    { "version": "1.21.30", "status": "stable" },
+    { "version": "1.21.40", "status": "stable" },
+    { "version": "1.21.50", "status": "stable" },
+    { "version": "1.21.60", "status": "stable" },
+    { "version": "1.21.70", "status": "stable" },
+    { "version": "1.21.80", "status": "stable" },
+
+    { "version": "1.26.0", "status": "stable" },
+    { "version": "1.26.10", "status": "stable" },
+    { "version": "1.26.20", "status": "latest"} 
+  ]
+}
