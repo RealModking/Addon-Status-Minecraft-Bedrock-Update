@@ -22,6 +22,7 @@
 
     { "version": "1.26.0", "status": "stable" },
     { "version": "1.26.10", "status": "stable" },
-    { "version": "1.26.20", "status": "latest"} 
+    { "version": "1.26.20", "status": "stable"},
+    { "version": "1.26.30", "status": "latest"} 
   ]
 }
